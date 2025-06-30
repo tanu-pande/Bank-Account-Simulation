@@ -19,6 +19,7 @@ Simulate basic bank operations using Java and Object-Oriented Programming concep
 2. Run: `java BankApp`
 
 ## Sample Output : 
+![image_alt](https://github.com/tanu-pande/Bank-Account-Simulation/blob/9e85b5ac540271bca1d5d75ba199741d641c17a1/Screenshot%202025-06-30%20185428.png)
 ![image_alt]()
 ## Outcome
 Simulates real-world banking actions for a single user account.
